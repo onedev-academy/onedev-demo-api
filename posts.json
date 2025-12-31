@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Flutter REST API",
+    "body": "Hello from OneDev Academy"
+  },
+  {
+    "id": 2,
+    "title": "Static JSON API",
+    "body": "Hosted on GitHub Pages"
+  }
+]
