@@ -1,3 +1,44 @@
 [
-  { "id": 1, "title": "Java", "desc": "Programming lanaguage to development Backend server, Game, App", "price": 25.00, "image": "https://onedev-academy.github.io/onedev-demo-api/images/java.png" }
+  {
+    "id": 1,
+    "title": "Java",
+    "desc": "Programming language for developing backend servers, games, and apps",
+    "price": 25.00,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/java.png"
+  },
+  {
+    "id": 2,
+    "title": "Python",
+    "desc": "High-level language for scripting, data science, web and automation",
+    "price": 30.00,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/python.png"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript",
+    "desc": "Language for building interactive web applications and server-side apps with Node.js",
+    "price": 20.00,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/javascript.png"
+  },
+  {
+    "id": 4,
+    "title": "C++",
+    "desc": "Performance-focused language for systems, games, and applications",
+    "price": 35.00,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/cpp.png"
+  },
+  {
+    "id": 5,
+    "title": "Go",
+    "desc": "Statically typed language designed at Google for simplicity and concurrency",
+    "price": 28.00,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/go.png"
+  },
+  {
+    "id": 6,
+    "title": "Rust",
+    "desc": "Systems programming language focused on safety and performance",
+    "price": 40.00,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/rust.png"
+  }
 ]
