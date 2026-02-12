@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Java",
+    "title": "Mastering Java: From Beginner to Expert",
     "author": "Robert C. Martin",
     "type": "Java",
     "description": "Java is a versatile and powerful programming language widely used in enterprise applications, Android development, and server-side solutions. This book covers everything from core syntax and object-oriented programming to advanced concepts like multithreading, design patterns, and performance optimization. Whether you're a beginner or an experienced developer, you'll gain practical skills to write clean, maintainable, and efficient Java code.",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "title": "Python",
+    "title": "Python Programming: Practical Guide for All Levels",
     "author": "Patrick Rothfuss",
     "type": "Python",
     "description": "Python is one of the most popular and beginner-friendly programming languages in the world, widely used for web development, data science, machine learning, and automation. This book provides comprehensive guidance, including Python syntax, data structures, functions, object-oriented programming, and modern libraries. With practical exercises and real-world examples, you'll develop the skills to solve complex problems efficiently and build scalable applications.",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "title": "Javascript",
+    "title": "JavaScript Essentials: Build Interactive Web Applications",
     "author": "Frank Herbert",
     "type": "Javascript",
     "description": "JavaScript is the language of the web, powering interactive websites and modern web applications. This book explores everything from the basics of syntax and DOM manipulation to advanced concepts like asynchronous programming, ES6 features, and frameworks. Learn how to create dynamic and responsive web applications, integrate APIs, and build a strong foundation for front-end and full-stack development.",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "title": "C++",
+    "title": "C++ Programming: High-Performance Software Development",
     "author": "James Clear",
     "type": "C++",
     "description": "C++ is a high-performance programming language widely used in game development, system software, and applications requiring speed and efficiency. This book covers C++ syntax, object-oriented programming, memory management, templates, and advanced programming techniques. You'll learn how to write robust and optimized code, understand the underlying architecture, and develop a deep understanding of programming fundamentals that apply to multiple domains.",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "title": "Kotlin",
+    "title": "Kotlin Programming: Modern Android Development Made Easy",
     "author": "Alex Michaelides",
     "type": "Kotlin",
     "description": "Kotlin is a modern, expressive programming language designed for Android development and beyond. This book introduces Kotlin's concise syntax, null-safety features, functional programming capabilities, and interoperability with Java. Through practical examples and real-world projects, you'll learn how to build reliable and maintainable applications, streamline your development workflow, and adopt modern programming best practices.",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "title": "Flutter",
+    "title": "Flutter Development: Build Beautiful Cross-Platform Apps",
     "author": "Taylor Jenkins Reid",
     "type": "Flutter",
     "description": "Flutter is an open-source UI toolkit developed by Google for building fast, beautiful, and cross-platform mobile, web, and desktop applications from a single codebase. This book guides you through Flutter’s architecture, widgets, state management, and integration with APIs. You'll learn how to create responsive, high-performance applications, implement modern UI designs, and leverage Flutter's growing ecosystem to bring your app ideas to life efficiently.",
