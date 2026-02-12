@@ -1,62 +1,62 @@
 [
   {
-    id: 1,
-    title: "Clean Code: A Handbook of Agile Software Craftsmanship",
-    author: "Robert C. Martin",
-    type: "Java",
-    description: "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way.",
-    price: 42.99,
-    rating: 4.8,
-    image: "https://onedev-academy.github.io/onedev-demo-api/images/java.png"
+    "id": 1,
+    "title": "Java",
+    "author": "Robert C. Martin",
+    "type": "Java",
+    "description": "Java is a versatile and powerful programming language widely used in enterprise applications, Android development, and server-side solutions. This book covers everything from core syntax and object-oriented programming to advanced concepts like multithreading, design patterns, and performance optimization. Whether you're a beginner or an experienced developer, you'll gain practical skills to write clean, maintainable, and efficient Java code.",
+    "price": 42.99,
+    "rating": 4.8,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/java.png"
   },
   {
-    id: 2,
-    title: "The Name of the Wind",
-    author: "Patrick Rothfuss",
-    type: "Python",
-    description: "Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen. A high-action story written with a poet's hand, exploring themes of love, loss, and the price of knowledge.",
-    price: 18.99,
-    rating: 4.9,
-    image: "https://onedev-academy.github.io/onedev-demo-api/images/python.png"
+    "id": 2,
+    "title": "Python",
+    "author": "Patrick Rothfuss",
+    "type": "Python",
+    "description": "Python is one of the most popular and beginner-friendly programming languages in the world, widely used for web development, data science, machine learning, and automation. This book provides comprehensive guidance, including Python syntax, data structures, functions, object-oriented programming, and modern libraries. With practical exercises and real-world examples, you'll develop the skills to solve complex problems efficiently and build scalable applications.",
+    "price": 18.99,
+    "rating": 4.9,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/python.png"
   },
   {
-    id: 3,
-    title: "Dune",
-    author: "Frank Herbert",
-    type: "Science Fiction",
-    description: "Set on the desert planet Arrakis, Dune is the story of Paul Atreides—who would become known as Muad'Dib—and of a great family's ambition to bring to fruition mankind's most ancient and unattainable dream. A stunning blend of adventure and mysticism, environmentalism and politics.",
-    price: 16.99,
-    rating: 4.7,
-    image: "https://onedev-academy.github.io/onedev-demo-api/images/javascript.png"
+    "id": 3,
+    "title": "Javascript",
+    "author": "Frank Herbert",
+    "type": "Javascript",
+    "description": "JavaScript is the language of the web, powering interactive websites and modern web applications. This book explores everything from the basics of syntax and DOM manipulation to advanced concepts like asynchronous programming, ES6 features, and frameworks. Learn how to create dynamic and responsive web applications, integrate APIs, and build a strong foundation for front-end and full-stack development.",
+    "price": 16.99,
+    "rating": 4.7,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/javascript.png"
   },
   {
-    id: 4,
-    title: "Atomic Habits",
-    author: "James Clear",
-    type: "Business & Self-Help",
-    description: "No matter your goals, Atomic Habits offers a proven framework for improving—every day. James Clear reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
-    price: 27.99,
-    rating: 4.9,
-    image: "https://onedev-academy.github.io/onedev-demo-api/images/cpp.png"
+    "id": 4,
+    "title": "C++",
+    "author": "James Clear",
+    "type": "C++",
+    "description": "C++ is a high-performance programming language widely used in game development, system software, and applications requiring speed and efficiency. This book covers C++ syntax, object-oriented programming, memory management, templates, and advanced programming techniques. You'll learn how to write robust and optimized code, understand the underlying architecture, and develop a deep understanding of programming fundamentals that apply to multiple domains.",
+    "price": 27.99,
+    "rating": 4.9,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/cpp.png"
   },
   {
-    id: 5,
-    title: "The Silent Patient",
-    author: "Alex Michaelides",
-    type: "Mystery & Thriller",
-    description: "Alicia Berenson's life is seemingly perfect. A famous painter married to an in-demand fashion photographer, she lives in a grand house. One evening her husband returns home late, and Alicia shoots him five times. Then never speaks another word. The mystery of why will keep you guessing until the final page.",
-    price: 14.99,
-    pages: 336,
-    image: "https://images.unsplash.com/photo-1563818072824-ed3d6ff52955?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxteXN0ZXJ5JTIwZGV0ZWN0aXZlJTIwYm9va3xlbnwxfHx8fDE3NzA4MTkzMzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "id": 5,
+    "title": "Kotlin",
+    "author": "Alex Michaelides",
+    "type": "Kotlin",
+    "description": "Kotlin is a modern, expressive programming language designed for Android development and beyond. This book introduces Kotlin's concise syntax, null-safety features, functional programming capabilities, and interoperability with Java. Through practical examples and real-world projects, you'll learn how to build reliable and maintainable applications, streamline your development workflow, and adopt modern programming best practices.",
+    "price": 14.99,
+    "pages": 336,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/kotlin.png"
   },
   {
-    id: 6,
-    title: "The Seven Husbands of Evelyn Hugo",
-    author: "Taylor Jenkins Reid",
-    type: "Romance & Fiction",
-    description: "Aging and reclusive Hollywood movie icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life. But when she chooses unknown magazine reporter Monique Grant for the job, no one is more astounded than Monique herself. A mesmerizing journey through the splendor of old Hollywood.",
-    price: 17.99,
-    rating: 4.8,
-    image: "https://images.unsplash.com/photo-1711185901036-f7fd98e50bb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyb21hbmNlJTIwbG92ZSUyMGJvb2t8ZW58MXx8fHwxNzcwODE5MzMzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    "id": 6,
+    "title": "Flutter",
+    "author": "Taylor Jenkins Reid",
+    "type": "Flutter",
+    "description": "Flutter is an open-source UI toolkit developed by Google for building fast, beautiful, and cross-platform mobile, web, and desktop applications from a single codebase. This book guides you through Flutter’s architecture, widgets, state management, and integration with APIs. You'll learn how to create responsive, high-performance applications, implement modern UI designs, and leverage Flutter's growing ecosystem to bring your app ideas to life efficiently.",
+    "price": 17.99,
+    "rating": 4.8,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/flutter.png"
   }
 ]
