@@ -1,8 +1,0 @@
-{
-    "id": 5,
-    "title": "Kotlin Programming: Modern Android Development Made Easy",
-    "author": "Alex Michaelides",
-    "description": "Kotlin is a modern, expressive programming language designed for Android development and beyond. This book introduces Kotlin's concise syntax, null-safety features, functional programming capabilities, and interoperability with Java. Through practical examples and real-world projects, you'll learn how to build reliable and maintainable applications, streamline your development workflow, and adopt modern programming best practices.",
-    "rating": 5.0,
-    "image": "https://onedev-academy.github.io/onedev-demo-api/images/kotlin.png"
-}
