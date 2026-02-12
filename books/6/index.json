@@ -1,0 +1,8 @@
+{
+    "id": 6,
+    "title": "Flutter Development: Build Beautiful Cross-Platform Apps",
+    "author": "Taylor Jenkins Reid",
+    "description": "Flutter is an open-source UI toolkit developed by Google for building fast, beautiful, and cross-platform mobile, web, and desktop applications from a single codebase. This book guides you through Flutter’s architecture, widgets, state management, and integration with APIs. You'll learn how to create responsive, high-performance applications, implement modern UI designs, and leverage Flutter's growing ecosystem to bring your app ideas to life efficiently.",
+    "rating": 4.8,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/flutter.png"
+}
