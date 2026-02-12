@@ -1,0 +1,8 @@
+{
+    "id": 4,
+    "title": "C++ Programming: High-Performance Software Development",
+    "author": "James Clear",
+    "description": "C++ is a high-performance programming language widely used in game development, system software, and applications requiring speed and efficiency. This book covers C++ syntax, object-oriented programming, memory management, templates, and advanced programming techniques. You'll learn how to write robust and optimized code, understand the underlying architecture, and develop a deep understanding of programming fundamentals that apply to multiple domains.",
+    "rating": 4.9,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/cpp.png"
+}
