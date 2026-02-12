@@ -1,0 +1,8 @@
+{
+    "id": 2,
+    "title": "Python Programming: Practical Guide for All Levels",
+    "author": "Patrick Rothfuss",
+    "description": "Python is one of the most popular and beginner-friendly programming languages in the world, widely used for web development, data science, machine learning, and automation. This book provides comprehensive guidance, including Python syntax, data structures, functions, object-oriented programming, and modern libraries. With practical exercises and real-world examples, you'll develop the skills to solve complex problems efficiently and build scalable applications.",
+    "rating": 4.9,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/python.png"
+}
