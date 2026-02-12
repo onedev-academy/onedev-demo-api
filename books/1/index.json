@@ -1,1 +1,8 @@
-{ "title": "Java", "desc": "Programming lanaguage to development Backend server, Game, App", "image": "https://onedev-academy.github.io/onedev-demo-api/images/java.png" }
+{
+    "id": 1,
+    "title": "Mastering Java: From Beginner to Expert",
+    "author": "Robert C. Martin",
+    "description": "Java is a versatile and powerful programming language widely used in enterprise applications, Android development, and server-side solutions. This book covers everything from core syntax and object-oriented programming to advanced concepts like multithreading, design patterns, and performance optimization. Whether you're a beginner or an experienced developer, you'll gain practical skills to write clean, maintainable, and efficient Java code.",
+    "rating": 4.8,
+    "image": "https://onedev-academy.github.io/onedev-demo-api/images/java.png"
+}
